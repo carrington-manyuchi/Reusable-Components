@@ -13,6 +13,7 @@
 		E67E71CD2BF694F900684786 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E67E71CC2BF694F900684786 /* Base */; };
 		E67E71CF2BF694FA00684786 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E67E71CE2BF694FA00684786 /* Assets.xcassets */; };
 		E67E71D22BF694FA00684786 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E67E71D12BF694FA00684786 /* Base */; };
+		E67E71DA2BF6953E00684786 /* ReusableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E67E71D92BF6953E00684786 /* ReusableButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E67E71CE2BF694FA00684786 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E67E71D12BF694FA00684786 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E67E71D32BF694FA00684786 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E67E71D92BF6953E00684786 /* ReusableButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReusableButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E67E71C52BF694F900684786 /* AppDelegate.swift */,
 				E67E71C72BF694F900684786 /* SceneDelegate.swift */,
 				E67E71C92BF694F900684786 /* ViewController.swift */,
+				E67E71D92BF6953E00684786 /* ReusableButton.swift */,
 				E67E71CB2BF694F900684786 /* Main.storyboard */,
 				E67E71CE2BF694FA00684786 /* Assets.xcassets */,
 				E67E71D02BF694FA00684786 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				E67E71CA2BF694F900684786 /* ViewController.swift in Sources */,
 				E67E71C62BF694F900684786 /* AppDelegate.swift in Sources */,
+				E67E71DA2BF6953E00684786 /* ReusableButton.swift in Sources */,
 				E67E71C82BF694F900684786 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
